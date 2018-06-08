@@ -29,6 +29,7 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="senac.controlefinanceiro.ListActivity" />
         </activity>
+        <activity android:name=".ReceitaActivity$ReceitaActivity" />
     </application>
 
 </manifest>
